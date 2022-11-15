@@ -16,7 +16,7 @@
 
         <maven-plugin.version>3.6.0</maven-plugin.version>
 
-        <jackson.version>2.10.0.pr1</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
 
         <commons-io.version>2.6</commons-io.version>
     </properties>
